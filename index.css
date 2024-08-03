@@ -8,7 +8,7 @@
 .tribute{
     background-color: #ffffff;
     width: 100vw;
-    height: 180vh;
+    
 }
 
 .tribute-heading > p{
@@ -17,7 +17,8 @@
     font-weight: bold;
     font-family: "Inter", sans-serif;
     width: 38rem;
-    text-align: center;
+    justify-content: center;
+    margin-top: 3rem;
 }
 
 .tribute-container{
@@ -62,11 +63,12 @@
 
 .tribute-findings-2{
     font-size: 1rem;
-    
+    margin-left: 8rem;
     color: #000000;
     margin-top: 2rem;
     text-align: center;
-    width: 40rem;
+    width: 50rem;
     font-family: "Inter", sans-serif;
+    margin-bottom: 2rem;
 }
 
