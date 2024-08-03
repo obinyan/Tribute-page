@@ -75,3 +75,16 @@
     margin-bottom: 2rem;
 }
 
+/** Responsiveness **/
+@media only screen and (max-width: 600px) {
+    body{
+        background-color: #000000;
+        color: #ffffff;
+    }
+}
+
+
+
+
+
+
