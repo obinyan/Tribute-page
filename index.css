@@ -12,7 +12,9 @@
     color: #000000;
     font-size: 1.5rem;
     font-weight: bold;
+    font-family: "Inter", sans-serif;
     width: 25rem;
+    text-align: center;
 }
 
 .tribute-container{
@@ -33,12 +35,14 @@
     color: #000000;
     font-size: 2rem;
     font-weight: bold;
+    font-family: "Inter", sans-serif;
 }
 
 .tribute-container-2b{
     color: #000000;
     font-size: 1rem;
     font-weight: 100;
+    font-family: "Inter", sans-serif;
 }
 
 .tribute-finding-1{
@@ -47,6 +51,7 @@
     font-weight: bold;
     margin-left: 5rem;
     margin-top: 3rem;
+    font-family: "Inter", sans-serif;
 }
 
 .tribute-finding-2{
@@ -56,5 +61,6 @@
     margin-top: 2rem;
     text-align: center;
     width: 40rem;
+    font-family: "Inter", sans-serif;
 }
 
