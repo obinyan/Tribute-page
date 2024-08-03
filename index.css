@@ -78,17 +78,36 @@
 /** Responsiveness **/
 @media only screen and (max-width: 600px) {
     .tribute{
-        background-color: #000000;
+        background-color: #ffffff
         color: #ffffff;
     }
 
     .tribute-heading > p{
         font-size: 10px;
         font-weight: bold;
-        color: #ffffff;
+        color: #000000;
         width: 400px;
         font-family: "Inter", sans-serif;
-        margin-top: 30rem;
+        margin-top: 30px;
+    }
+
+    img{
+        width: 160px;
+        height: 150px;
+    }
+
+    .tribute-container{
+        display: none;
+        margin-top: 20px;
+    }
+
+    .tribute-findings-1{
+        margin-left: 5px;
+    }
+
+    .tribute-findings-2{
+        width: 400px;
+        margin: 2px;
     }
 }
 
