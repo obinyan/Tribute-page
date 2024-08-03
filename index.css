@@ -12,8 +12,8 @@
 }
 
 .tribute-heading{
-    justify-content: center;
-}
+    text-align: center;
+}    
 
 .tribute-heading > p{
     color: #000000;
