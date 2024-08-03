@@ -8,7 +8,7 @@
 .tribute{
     background-color: #ffffff;
     width: 100vw;
-    height: 150vh;
+    height: 180vh;
 }
 
 .tribute-heading > p{
@@ -16,7 +16,7 @@
     font-size: 1.5rem;
     font-weight: bold;
     font-family: "Inter", sans-serif;
-    width: 35rem;
+    width: 38rem;
     text-align: center;
 }
 
@@ -26,7 +26,9 @@
     grid-template-rows: repeat(4, 1fr);
     grid-gap: 2rem;
     justify-content: center;
-    margin-top: 3rem;
+    margin-top: 5rem;
+    align-items: center;
+    place-items: center;
 }
 
 .tribute-container-1 > img{
@@ -44,12 +46,12 @@
 .tribute-container-2b{
     color: #000000;
     font-size: 1rem;
-
+    margin-top: 2rem;
     font-family: "Inter", sans-serif;
     width: 20rem;
 }
 
-.tribute-finding-1{
+.tribute-findings-1{
     font-size: 2rem;
     color: #000000;
     font-weight: bold;
@@ -58,7 +60,7 @@
     font-family: "Inter", sans-serif;
 }
 
-.tribute-finding-2{
+.tribute-findings-2{
     font-size: 1rem;
     
     color: #000000;
