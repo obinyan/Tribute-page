@@ -3,12 +3,15 @@
     padding: o;
 }
 
+
+
 .tribute{
     background-color: #ffffff;
     width: 100vw;
+    height: 150vh;
 }
 
-.tribute-heading{
+.tribute-heading > p{
     color: #000000;
     font-size: 1.5rem;
     font-weight: bold;
@@ -26,7 +29,7 @@
     margin-top: 3rem;
 }
 
-.tribute-container-1{
+.tribute-container-1 > img{
     width: 15rem;
     height: 15rem;
 }
