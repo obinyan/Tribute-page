@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: o;
+}
+
+.tribute{
+    background-color: #ffffff;
+    width: 100vw;
+}
+
+.tribute-heading{
+    color: #000000;
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 25rem;
+}
+
+.tribute-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-gap: 2rem;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.tribute-container-1{
+    width: 15rem;
+    height: 15rem;
+}
+
+.tribute-container-2a{
+    color: #000000;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.tribute-container-2b{
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+.tribute-finding-1{
+    font-size: 2rem;
+    color: #000000;
+    font-weight: bold;
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+
+.tribute-finding-2{
+    font-size: 1rem;
+    font-weight: 100;
+    color: #000000;
+    margin-top: 2rem;
+    text-align: center;
+    width: 40rem;
+}
+
