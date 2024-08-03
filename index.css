@@ -77,9 +77,18 @@
 
 /** Responsiveness **/
 @media only screen and (max-width: 600px) {
-    body{
+    .tribute{
         background-color: #000000;
         color: #ffffff;
+    }
+
+    .tribute-heading > p{
+        font-size: 10px;
+        font-weight: bold;
+        color: #ffffff;
+        width: 400px;
+        font-family: "Inter", sans-serif;
+        margin-top: 30rem;
     }
 }
 
