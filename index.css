@@ -117,12 +117,12 @@
     }
 
     .tribute-findings-1{
-        /**margin-left: 5px;**/
+        margin: 0 auto;
     }
 
     .tribute-findings-2{
         width: 275px;
-        margin: 2px;
+        margin: 0 auto;
     }
 }
 
