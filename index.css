@@ -98,7 +98,7 @@
         font-size: 15px;
         font-weight: bold;
         color: #000000;
-        width: 150px;
+        width: 200px;
         font-family: "Inter", sans-serif;
         margin-top: 30px;
         text-align: left;
@@ -116,9 +116,13 @@
         margin-top: 30px;
     }
 
-    .tribute-container-1, .tribute-container-2a, .tribute-container-2b{
+    .tribute-container-1, .tribute-container-2a{
         margin-left: auto;
         margin-right: auto;
+    }
+
+    .tribute-container-2b{
+        margin-top: 15px auto;
     }
 
     .tribute-findings{
