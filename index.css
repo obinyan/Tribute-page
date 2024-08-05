@@ -90,6 +90,10 @@
         color: #ffffff;
     }
 
+    .tribute-heading{
+        margin-left: auto;
+    }
+
     .tribute-heading > p{
         font-size: 10px;
         font-weight: bold;
