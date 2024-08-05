@@ -121,7 +121,7 @@
         margin-right: auto;
     }
 
-    .tribute-container-2b{
+    .tribute-container-2b > p{
         margin-top: 15px auto;
     }
 
@@ -135,6 +135,7 @@
 
     .tribute-findings-1 > p{
         text-align: center;
+        margin: auto;
     }
 
     .tribute-findings-2{
