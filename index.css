@@ -90,6 +90,10 @@
         color: #ffffff;
     }
 
+    p{
+        margin-left: 5px;
+    }
+
     .tribute-heading{
         margin-left: auto;
     }
@@ -107,8 +111,9 @@
 
     img{
         width: 160px;
-        height: 150px;
+        height: 160px;
         margin-top: 20px;
+        margin-left: 5px;
     }
 
     .tribute-container{
